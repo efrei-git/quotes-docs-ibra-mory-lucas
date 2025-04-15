@@ -7,6 +7,7 @@ Solutions de l'évaluation notée 2 du groupe [ibra/mory/lucas] à l'aide de MkD
 - `initiateur` : [Mosimann Lucas]
 - `contributeur1` : [Ibrahim Boukernafa]
 - `contributeur2` : [Toure Mory]
+- `contributeur3` : [Mosimann Lucas]
 
 ## URLs des dépôts
 
