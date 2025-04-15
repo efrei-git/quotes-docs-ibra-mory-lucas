@@ -1,1 +1,0 @@
-- `Contributeur1` : [Boukernafa Ibrahim] | Lien vers mon fork : `https://github.com/ibrahim-bkrn/quotes-docs-ibra-mory-lucas.git`
