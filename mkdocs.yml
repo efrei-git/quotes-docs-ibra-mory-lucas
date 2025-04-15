@@ -1,1 +1,5 @@
 site_name: Documentation Programming ibra/mory/lucas
+
+nav:
+  - Home: index.md
+  - Features: features.md
