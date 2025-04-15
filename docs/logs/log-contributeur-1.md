@@ -1,4 +1,4 @@
-## Log <role>
+## Log Contributeur 1
 
 ```bash
 * 144da62 (HEAD -> main, origin/main, origin/HEAD, contributeur1) Refactor documentation and pushed log initateur
